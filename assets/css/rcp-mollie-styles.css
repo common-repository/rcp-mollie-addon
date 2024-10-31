@@ -1,0 +1,20 @@
+/*
+*
+*	Styling for RCP Mollie plugin 
+*	
+*
+*/
+
+/* Admin styles */
+li.payment-method {
+
+}
+
+li.payment-method img {
+    vertical-align: middle;
+    padding-right: 1rem;
+}
+
+#rcp-mollie-updated, #rcp-mollie-error {
+    display: none;
+}
